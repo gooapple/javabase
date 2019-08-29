@@ -2,6 +2,6 @@
 *.png
 /.idea/
 /java_base.iml
-/src/Sounds/
-/src/Sprites/
-/src/study/java/
+将删除 .DS_Store
+将删除 out/production/java_base/Sounds/
+将删除 out/production/java_base/study/
