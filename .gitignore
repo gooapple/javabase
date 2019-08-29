@@ -1,7 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-*.png
 /.idea/
 /java_base.iml
 将删除 .DS_Store
 将删除 out/production/java_base/Sounds/
 将删除 out/production/java_base/study/
+/.DS_Store
+/out/
+/src/Sounds/
