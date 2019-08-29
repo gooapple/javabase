@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.png
+/.idea/
+/java_base.iml
+/src/Sounds/
+/src/Sprites/
+/src/study/java/
